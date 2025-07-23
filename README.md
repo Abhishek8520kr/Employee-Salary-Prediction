@@ -95,6 +95,6 @@ The goal is to develop a transparent, fair, and accurate system using machine le
 ## 🙋‍♂️ Author
 
 **Abhishek Kumar**  
-CSE (AI & ML)  
+CSE (AI & ML) Graduate, 2025
 [LinkedIn](https://www.linkedin.com/in/abhishek-kr8789417601?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
